@@ -29,6 +29,7 @@ Im281_1 = Target Image
 <img width="117" alt="Screen Shot 2023-07-28 at 10 31 16 pm" src="https://github.com/HesamoddinHosseini/Color_normalization_of_retinal_images/assets/89314766/4b0d10b4-e19a-4bee-9344-9811c3ed9469">
 
 
+Normalizing the retinal image for better viewing of vessels:
 
 ------------------------
 Hesamoddin Hosseini
@@ -65,6 +66,7 @@ Im281_1 =  تصویر هدف
 <img width="117" alt="Screen Shot 2023-07-28 at 10 31 16 pm" src="https://github.com/HesamoddinHosseini/Color_normalization_of_retinal_images/assets/89314766/4b0d10b4-e19a-4bee-9344-9811c3ed9469">
 
 
+ نرمالیزه نمودن تصویر شبکیه چشم برای مشاهده بهتر رگ ها:
 
 --------------------
 Hesamoddin Hosseini
