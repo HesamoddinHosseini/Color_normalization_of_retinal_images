@@ -33,6 +33,8 @@ Normalizing the retinal image for better viewing of vessels:
 
 ![Screen Shot 2023-07-28 at 10 36 28 pm](https://github.com/HesamoddinHosseini/Color_normalization_of_retinal_images/assets/89314766/0b0da0d8-674e-478a-9782-ebaf85dda32a)
 
+![Screen Shot 2023-07-28 at 10 38 03 pm](https://github.com/HesamoddinHosseini/Color_normalization_of_retinal_images/assets/89314766/0785650c-66ce-4755-92d9-eadf79c8b1d2)
+
 
 ------------------------
 Hesamoddin Hosseini
@@ -73,6 +75,7 @@ Im281_1 =  تصویر هدف
 
  ![Screen Shot 2023-07-28 at 10 36 28 pm](https://github.com/HesamoddinHosseini/Color_normalization_of_retinal_images/assets/89314766/0b0da0d8-674e-478a-9782-ebaf85dda32a)
 
+![Screen Shot 2023-07-28 at 10 38 03 pm](https://github.com/HesamoddinHosseini/Color_normalization_of_retinal_images/assets/89314766/0785650c-66ce-4755-92d9-eadf79c8b1d2)
 
 --------------------
 Hesamoddin Hosseini
