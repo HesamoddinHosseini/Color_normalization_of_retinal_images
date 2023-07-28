@@ -22,6 +22,14 @@ For this purpose, we first convert the image from the RGB color space to the Lα
 We use Matlab to implement this project.
 
 
+Result)
+
+Im281_1 = Target Image
+
+<img width="117" alt="Screen Shot 2023-07-28 at 10 31 16 pm" src="https://github.com/HesamoddinHosseini/Color_normalization_of_retinal_images/assets/89314766/4b0d10b4-e19a-4bee-9344-9811c3ed9469">
+
+
+
 ------------------------
 Hesamoddin Hosseini
 
@@ -48,6 +56,14 @@ Paper:Reinhard E, Pouli T, "Colour Spaces for Colour Transfer", Lecture Notes in
 تصویربرداری رنگی در شرایط نورپردازی مختلف باعث بدست آمدن تصاویر متفاوت از صحنه‌ی یکسان می‌شود. همین امر موجب می‌شود که سیستم‌های بینایی ماشین در برخی کاربردها، با وجود این مساله دچار مشکل شوند. یکی از راه‌حل‌های غلبه بر این مشکل این است که رنگ را در تصاویر نرمالیزه کنیم. 
 برای این منظور، ابتدا تصویر را از فضای رنگ RGB به فضای رنگ Lαβ می‌ببریم که در آن مولفه روشنایی از رنگ جدا شود. سپس با در نظر گرفتن مولفه‌های رنگ یک تصویر به عنوان مرجع، سعی می‌کنیم مولفه‌های رنگ دیگر تصاویر را به مولفه‌های رنگ تصویر مرجع تبدیل کنیم.
 برای پیاده سازی این پروژه از Matlab استفاده می نماییم.
+
+ نتایح)
+
+ 
+Im281_1 =  تصویر هدف
+
+<img width="117" alt="Screen Shot 2023-07-28 at 10 31 16 pm" src="https://github.com/HesamoddinHosseini/Color_normalization_of_retinal_images/assets/89314766/4b0d10b4-e19a-4bee-9344-9811c3ed9469">
+
 
 
 --------------------
