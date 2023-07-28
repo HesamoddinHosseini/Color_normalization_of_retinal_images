@@ -14,6 +14,14 @@ Color imaging in different lighting conditions results in different images from 
 
 Paper:Reinhard E, Pouli T, "Colour Spaces for Colour Transfer", Lecture Notes in Computer Science, Vol. 6626, pp. 1-15, 2011
 
+
+Abstract)
+
+Color imaging in different lighting conditions results in different images from the same scene. This causes machine vision systems to have problems in some applications, despite this problem. One of the solutions to overcome this problem is to normalize the color in the images.
+For this purpose, we first convert the image from the RGB color space to the Lαβ color space, where the brightness component is separated from the color. Then, considering the color components of an image as a reference, we try to convert the color components of other images into the color components of the reference image.
+We use Matlab to implement this project.
+
+
 ------------------------
 Hesamoddin Hosseini
 
@@ -33,6 +41,13 @@ Hesamoddin Hosseini
 
 Paper:Reinhard E, Pouli T, "Colour Spaces for Colour Transfer", Lecture Notes in Computer Science, Vol. 6626, pp. 1-15, 2011
 
+
+
+خلاصه)
+
+تصویربرداری رنگی در شرایط نورپردازی مختلف باعث بدست آمدن تصاویر متفاوت از صحنه‌ی یکسان می‌شود. همین امر موجب می‌شود که سیستم‌های بینایی ماشین در برخی کاربردها، با وجود این مساله دچار مشکل شوند. یکی از راه‌حل‌های غلبه بر این مشکل این است که رنگ را در تصاویر نرمالیزه کنیم. 
+برای این منظور، ابتدا تصویر را از فضای رنگ RGB به فضای رنگ Lαβ می‌ببریم که در آن مولفه روشنایی از رنگ جدا شود. سپس با در نظر گرفتن مولفه‌های رنگ یک تصویر به عنوان مرجع، سعی می‌کنیم مولفه‌های رنگ دیگر تصاویر را به مولفه‌های رنگ تصویر مرجع تبدیل کنیم.
+برای پیاده سازی این پروژه از Matlab استفاده می نماییم.
 
 
 --------------------
